@@ -1,8 +1,14 @@
 // importazione delle componenti
 import Header from "./components/header"
+import Main from "./components/Main"
 
 function App() {
-  return <Header />
+  return (
+    <>
+      <Header />
+      <Main />
+    </>
+  )
 }
 
 export default App
