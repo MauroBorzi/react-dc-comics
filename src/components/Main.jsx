@@ -1,7 +1,9 @@
 const Main = () => {
   return (
     <main>
-      <h1>ciao sono main</h1>
+      <div className="container-m">
+        <h2>---&#62; Content goes here &#60;---</h2>
+      </div>
     </main>
   )
 }
