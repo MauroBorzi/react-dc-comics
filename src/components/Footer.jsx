@@ -4,23 +4,23 @@ const Footer = () => {
       <div className="container-f">
         <div className="row">
           <div className="col">
-            <img className="fontImg" src="img/buy-comics-digital-comics.png" alt="" />
+            <img className="fontImg" src="./img/buy-comics-digital-comics.png" alt="" />
             <span className="fontText">DIGITAL COMICS</span>
           </div>
           <div className="col">
-            <img className="fontImg" src="img/buy-comics-merchandise.png" alt="" />
+            <img className="fontImg" src="./img/buy-comics-merchandise.png" alt="" />
             <span className="fontText">DC MERCHANDISE</span>
           </div>
           <div className="col">
-            <img className="fontImg" src="img/buy-comics-subscriptions.png" alt="" />
+            <img className="fontImg" src="./img/buy-comics-subscriptions.png" alt="" />
             <span className="fontText">SUBSCRIPTION</span>
           </div>
           <div className="col">
-            <img className="fontImg2" src="img/buy-comics-shop-locator.png" alt="" />
+            <img className="fontImg2" src="./img/buy-comics-shop-locator.png" alt="" />
             <span className="fontText">COMIC SHOP LOCATOR</span>
           </div>
           <div className="col">
-            <img className="fontImg" src="img/buy-dc-power-visa.svg" alt="" />
+            <img className="fontImg" src="./img/buy-dc-power-visa.svg" alt="" />
             <span className="fontText">DC POWER VISA</span>
           </div>
         </div>
@@ -69,7 +69,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="col-40">
-            <img src="img/dc-logo-bg.png" alt="" />
+            <img src="./img/dc-logo-bg.png" alt="" />
           </div>
         </div>
         <div className="row3">

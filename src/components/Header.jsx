@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header>
       <div className="container-h">
-        <img src="img/dc-logo.png" alt="" />
+        <img src="./img/dc-logo.png" alt="" />
         <ul>
           <li><a href="#">CHARACTERS</a></li>
           <li><a className="active" href="#">COMICS</a></li>
