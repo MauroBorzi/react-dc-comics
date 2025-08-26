@@ -14,6 +14,8 @@ Per oggi diamo priorità alla struttura: quando è tutto bello solido, passiamo 
 
 Buon lavoro!
 
+
+
 # react-dc-comics 2
 ### Descrizione:
 Lavoriamo sul nostro sito dei fumetti per dinamicizzare sia la navbar che i fumetti, sfruttando l’iterazione con JSX. 

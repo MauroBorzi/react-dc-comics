@@ -19,7 +19,6 @@ main {
   background-color: #1c1c1c;
   color: white;
   padding: 30px 0;
-  font-size: 1.2em;
 }
 
 footer {
@@ -92,23 +91,23 @@ footer h2 {
 }
 
 .col-25 {
-  max-width: 25%;
+  width: 25%;
 }
 
 .col-40 {
-  max-width: 40%;
+  width: 40%;
 }
 
 .col-50 {
-  max-width: 50%;
+  width: 50%;
 }
 
 .col-75 {
-  max-width: 75%;
+  width: 75%;
 }
 
-.col-100 {
-  max-width: 100%;
+.col-15 {
+  width: 15%;
 }
 
 .fontImg {
@@ -126,6 +125,10 @@ footer h2 {
 
 .m-custom {
   margin: 40px 20px;
+}
+
+.m-custom2 {
+  margin: 20px 10px;
 }
 
 .p-10 {
@@ -167,6 +170,25 @@ footer h2 {
 
 }
 
+.button2 {
+  background-color: #0282f9;
+  color: white;
+  padding: 10px 50px;
+  border: 2px solid #0282f9;
+  cursor: pointer;
+  font-size: 15px;
+}
+
 .button:hover {
   background-color: #7d7a7a;
+}
+
+
+.card img {
+  width: 100%;
+  height: 200px;
+}
+
+.justify-center {
+  justify-content: center;
 }
