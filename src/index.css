@@ -12,7 +12,6 @@ body {
 
 header {
   background-color: white;
-
 }
 
 main {
@@ -57,6 +56,10 @@ header ul li a {
   font-weight: bold;
 }
 
+header ul li a:hover {
+  color: #0282f9;
+}
+
 .active {
   color: #0282f9;
   border-bottom: 5px solid #0282f9;
@@ -72,6 +75,16 @@ header ul li a {
 
 .bottom-footer {
   background-color: #303030;
+}
+
+.bottom-footer img:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.col-20.m-custom:hover {
+  transform: scale(1.2);
+  cursor: pointer;
 }
 
 footer ul li {
@@ -189,6 +202,11 @@ footer h2 {
 
 .card {
   text-transform: uppercase;
+}
+
+.card:hover {
+  transform: scale(1.2);
+  cursor: pointer;
 }
 
 .card img {
