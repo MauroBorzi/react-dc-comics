@@ -187,6 +187,9 @@ footer h2 {
   background-color: #86afd5;
 }
 
+.card {
+  text-transform: uppercase;
+}
 
 .card img {
   width: 100%;
